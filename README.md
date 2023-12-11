@@ -1,6 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img margin="5px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 # 💫 About Me:
-Hi, I'm Aanya Singh Dhaka, eager to boost my open-source contributions!<br>Learning machine learning, AI, and JavaScript to create impactful projects.<br>Seeking opportunities to apply my skills and make a real-world impact.<br>Fun fact: I'm a kitchen enthusiast striving for the perfect chocolate chip cookie recipe!<br>Excited to collaborate and learn within the vibrant GitHub community. Let's code together!
+Hi, I'm Aanya Singh Dhaka, eager to boost my open-source contributions!<br>Learning machine learning, AI, and JavaScript to create impactful projects.<br>Seeking opportunities to apply my skills and make a real-world impact.<br>Fun fact: I'm a kitchen enthusiast striving for the perfect chocolate chip cookie recipe!<br>Excited to collaborate and learn within the vibrant GitHub community. 
+Let's code together!
 
 
 ## 🌐 Socials:
